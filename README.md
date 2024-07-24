@@ -15,9 +15,10 @@
 AI20
 
 -------------------------------------------------------------------
-**Website Link:**
+> **Website Link:**
 https://acloudguruji.com/
-**Training page:**
+
+> **Training page:**
 https://acloudguruji.com/courses/business-gen-ai-sap-training-course-online/
 
 
