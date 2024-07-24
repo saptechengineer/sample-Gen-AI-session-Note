@@ -1,25 +1,34 @@
+-------------------------------------------------------------------
 **World First end-to-end Gen AI for Enterprise Training**
+
+-------------------------------------------------------------------
+
+-------------------------------------------------------------------
 **Completed training for first batches with 45 SAP professionals**
+
+-------------------------------------------------------------------
 **Next Batch**
+
 **Start Date: 3rd August**
 
 **Early Bird Discount - Coupon Code:**
 AI20
 
-
-**Training Link**
+-------------------------------------------------------------------
+**Website Link:**
 https://acloudguruji.com/
+**Training page:**
 https://acloudguruji.com/courses/business-gen-ai-sap-training-course-online/
 
 
 **Training Includes:**
-✅Live Lecture/Hands-on Session (Sat & Sun)
-✅10+ Real-world projects with Gen AI - Business - SAP
-✅World Class Session Note
-✅Project Codebase (Github)
-✅SAP BTP Gen AI Hub (AI Core) Access for a Limited time
-✅Dedicated (Wednesday) doubt-clearing session
-✅Lifetime access to all recordings (including other Batch Rec.)
+- ✅Live Lecture/Hands-on Session (Sat & Sun)
+- ✅10+ Real-world projects with Gen AI - Business - SAP
+- ✅World Class Session Note
+- ✅Project Codebase (Github)
+- ✅SAP BTP Gen AI Hub (AI Core) Access for a Limited time
+- ✅Dedicated (Wednesday) doubt-clearing session
+- ✅Lifetime access to all recordings (including other Batch Rec.)
 
 
 **DEMO:**
