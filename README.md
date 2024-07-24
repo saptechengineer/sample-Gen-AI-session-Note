@@ -47,3 +47,6 @@ https://www.youtube.com/watch?v=J4XvJ8aYV2o
 
 https://docs.google.com/forms/d/e/1FAIpQLSdn6rk03ekE-JPho2FjO2r29gESl6Tr-tfNAmNE-Ha_ghDUyQ/viewform 
 
+
+
+![ACloudGuruji.com](<3 AUG.png>)
