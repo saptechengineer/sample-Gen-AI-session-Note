@@ -1,13 +1,13 @@
 -------------------------------------------------------------------
-**World First end-to-end Gen AI for Enterprise Training**
+> **World First end-to-end Gen AI for Enterprise Training**
 
 -------------------------------------------------------------------
 
 -------------------------------------------------------------------
-**Completed training for first batches with 45 SAP professionals**
+> **Completed training for first batches with 45 SAP professionals**
 
 -------------------------------------------------------------------
-**Next Batch**
+## **Next Batch**
 
 **Start Date: 3rd August**
 
